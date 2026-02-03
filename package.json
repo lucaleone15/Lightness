@@ -1,0 +1,25 @@
+{
+  "name": "s17",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/lucaleone15/Lightness#readme",
+  "bugs": {
+    "url": "https://github.com/lucaleone15/Lightness/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaleone15/Lightness.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx vite",
+    "build": "npx vite build"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
